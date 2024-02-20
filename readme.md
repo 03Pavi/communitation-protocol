@@ -1,4 +1,3 @@
-**Handson Readme: Understanding Communication Protocols**
 <img src="https://images.ctfassets.net/3prze68gbwl1/6gIRdHedHRLNmco97gFajb/2d36a5ddfc47831ca737bbcf24e31d7c/WebSockets2.jpg" width="100%"/>
 ## Introduction
 
