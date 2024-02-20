@@ -1,5 +1,5 @@
 **Handson Readme: Understanding Communication Protocols**
-
+<img src="https://images.ctfassets.net/3prze68gbwl1/6gIRdHedHRLNmco97gFajb/2d36a5ddfc47831ca737bbcf24e31d7c/WebSockets2.jpg"/>
 ## Introduction
 
 Welcome to this Hands-on Readme, where we explore different communication protocols used in web applications. In this document, we'll delve into various protocols, their functionalities, and how they address specific challenges in web communication.
